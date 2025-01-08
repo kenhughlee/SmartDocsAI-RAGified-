@@ -4,4 +4,4 @@ torch
 sentence-transformers
 faiss-cpu
 pypdf2
-dotenv
+python-dotenv
