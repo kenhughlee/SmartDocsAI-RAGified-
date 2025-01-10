@@ -6,3 +6,6 @@ faiss-cpu
 pypdf2
 python-dotenv
 sentencepiece
+protobuf
+accelerate
+bitsandbytes
